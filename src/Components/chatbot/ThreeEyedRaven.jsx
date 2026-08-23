@@ -16,8 +16,6 @@ const PERSONA =
   "informative. Avoid sounding robotic or overly formal.";
 
 const SUGGESTIONS = [
-  "What has Kabilesh forged?",
-  "Tell me about BlogUp",
   "What skills does he wield?",
   "Who is Kabilesh?",
 ];
