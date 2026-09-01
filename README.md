@@ -22,5 +22,5 @@ A clean, responsive personal portfolio site built with **React + Vite** to showc
 
 If you're a client, recruiter, or fellow developer — feel free to reach out!
 
-- 🌐 [kabiwebfolio.netlify.app](https://kabiwebfolio.netlify.app)
+- 🌐 [ikabidev.app](https://ikabidev.app/)
 - 💻 [GitHub](https://github.com/ikabidev)
