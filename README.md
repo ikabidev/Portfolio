@@ -2,7 +2,7 @@
 
 A clean, responsive personal portfolio site built with **React + Vite** to showcase my projects, skills, and experience as a web developer.
 
-**Live Site → [kabiwebfolio.netlify.app](https://kabiwebfolio.netlify.app)**
+**Live Site → [ikabidev.app](https://ikabidev.app/)**
 
 ---
 
